@@ -11,5 +11,6 @@ namespace PIS_Vjezba_BK
         int someMethod() {
             return 0;
         }
+        Console.WriteLine("Bug fix");
     }
 }

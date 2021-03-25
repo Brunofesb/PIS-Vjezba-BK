@@ -8,6 +8,7 @@ namespace PIS_Vjezba_BK
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Promjena - Ervin");
         }
     }
 }

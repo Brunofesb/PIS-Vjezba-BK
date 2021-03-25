@@ -6,5 +6,6 @@ namespace PIS_Vjezba_BK
 {
     class NewClass
     {
+        string objectName;
     }
 }

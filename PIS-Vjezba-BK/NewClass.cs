@@ -7,5 +7,9 @@ namespace PIS_Vjezba_BK
     class NewClass
     {
         string objectName;
+
+        int someMethod() {
+            return 0;
+        }
     }
 }
